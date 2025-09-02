@@ -52,8 +52,11 @@ Here is example of executed tests (or the case of **Task 1**):
 By default, Cypress creates the following structure inside the **cypress/** folder:
 
 cypress/
+
   ├── e2e/           # End-to-end test files
+
   ├── fixtures/      # Test data (mock data, JSON files)
+  
   ├── support/       # Commands and configuration files
 
 ---
