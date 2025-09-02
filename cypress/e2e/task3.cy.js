@@ -25,7 +25,7 @@ describe('Simple Task Manager — Task Management (Negative Scenarios & Edge Cas
    * 3. Extremely long title and description inputs
    * 4. Special characters in title and description
    */
-  it('shows validation error when required field (title) is missing', () => {
+  it('Validate negative scenarios and edge cases during task creation', () => {
     
     // Case 1: shows validation error when required field (title) is missing
 
