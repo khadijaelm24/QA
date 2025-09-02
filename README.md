@@ -7,9 +7,10 @@ Here is the link to access to **Test Execution Report**:
 https://github.com/khadijaelm24/QA/blob/main/Test%20Execution%20Report.pdf 
 
 Here is the link to access to **Comprehensive Bug Report (Task 4)**:
+https://github.com/khadijaelm24/QA/blob/main/Comprehensive%20Bug%20Report%20-%20Task%204_%20Identify%20Design%20(UI_UX)%20Issues.pdf 
 
 Here is the link to access to **Comprehensive Bug Report (Task 5)**:
-
+https://github.com/khadijaelm24/QA/blob/main/Comprehensive%20Bug%20Report%20-%20Task%205_%20Identify%20Logic%20(Functional)%20Issues.pdf 
 
 --- 
 
