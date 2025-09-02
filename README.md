@@ -5,7 +5,10 @@ This section explains how to install and run Cypress tests for this project.
 ## Reports
 Here is the link to access to **Test Execution Report**:
 https://github.com/khadijaelm24/QA/blob/main/Test%20Execution%20Report.pdf 
- 
+
+Here is the link to access to **Comprehensive Bug Report**:
+
+
 --- 
 
 ## Prerequisites
