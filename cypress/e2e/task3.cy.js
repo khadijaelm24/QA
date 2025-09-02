@@ -1,5 +1,5 @@
 describe('Simple Task Manager — Task Management (Negative Scenarios & Edge Cases)', () => {
-  // A constant variable representing a user was used in the following tests for Task 2
+  // A constant variable representing a user was used in the following tests for Task 3
   const user = {
     username: `user${Date.now()}`, // Dynamically generate a unique username
     email: `user${Date.now()}@example.com`, // Dynamically generate a unique email
