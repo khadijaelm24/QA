@@ -66,7 +66,7 @@ describe('Simple Task Manager — Task Management (Negative Scenarios & Edge Cas
     //Case 4: allows special characters in title and description
     const specialCharTask = {
       title: '!@#$%^&*()_+{}|:"<>?-=[]\\;\',./`~', // Special characters in title
-      description: 'Description with emoji 😃🔥🚀 and symbols @#$%', // Emojis and symbols in description
+      description: 'Description with emoji 🚀 and symbols @#$%', // Emojis and symbols in description
       dueDate: '2025-11-01', // Valid future date
       priority: 'High', // Valid priority
     };
